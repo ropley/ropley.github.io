@@ -17,3 +17,5 @@ TODO:
 * Fix Materialize control colours (probably by using SASS).
 * Fix Babel library conflict between normal and test mode
 * Improve mobile experience
+* Establish sensible minima for box sizes with client
+* More rigorous testing
